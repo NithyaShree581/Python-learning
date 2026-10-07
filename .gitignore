@@ -1,0 +1,4 @@
+DataGrokr_assigment/.env
+__pycache__/
+*.pyc
+*.dump
