@@ -2,3 +2,4 @@ DataGrokr_assigment/.env
 __pycache__/
 *.pyc
 *.dump
+unzippeddata/survey_results_public.csv
